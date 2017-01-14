@@ -4,6 +4,9 @@
 
 在生产环境中使用 Elixir 的中国公司列表。
 
+#### 独立工作室
+* [Ela Workshop](http://ela.build/) ([Github](https://github.com/ElaWorkshop)) - 生产环境中部署了 [HaloSir](https://github.com/HaloWordApp/halosir) 其他还有一些[工具](https://github.com/ElaWorkshop/ex_loglite)和实验性的项目。
+
 ## Contributing
 
 欢迎通过 PR 添加、更新自己的公司或其他已知的公司。一些要求和建议：
