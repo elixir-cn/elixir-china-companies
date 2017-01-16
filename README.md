@@ -7,7 +7,7 @@
 #### 独立工作室
 * [Ela Workshop](http://ela.build/) ([Github](https://github.com/ElaWorkshop)) - 生产环境中部署了 [HaloSir](https://github.com/HaloWordApp/halosir) 其他还有一些 [工具](https://github.com/ElaWorkshop/ex_loglite) 和实验性的项目。
 
-#### 互联网
+#### SaaS
 * [Strikingly](https://www.strikingly.com) ([Github](https://github.com/Strikingly)) - 用于高并发的Analytics数据查询服务。其中使用Pheonix和GraphQL做API server，Rust的Native Extention提高查询速度。
 
   [上线了](https://www.sxl.cn) 是 [Strikingly](https://www.strikingly.com/s/careers) 创建的专业易用的建站平台，无需任何编程和设计经验，任何人都可以在15分钟内创建一个功能强大网站，并且完美适配电脑、平板和手机等设备浏览的专业网站，今天，我们正在为超过200个国家和地区的用户持续创造价值、传递梦想。
