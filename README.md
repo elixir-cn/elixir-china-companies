@@ -10,7 +10,11 @@
 #### 互联网
 * [Strikingly](https://www.strikingly.com) ([Github](https://github.com/Strikingly)) - 用于高并发的Analytics数据查询服务。其中使用Pheonix和GraphQL做API server，Rust的Native Extention提高查询速度。
 
-  [上线了](https://www.sxl.cn) 是 [Strikingly](https://www.strikingly.com/s/careers) 创建的专业易用的建站平台，无需任何编程和设计经验，任何人都可以在15分钟内创建一个功能强大网站，并且完美适配电脑、平板和手机等设备浏览的专业网站，今天，我们正在为超过200个国家和地区的用户持续创造价值、传递梦想。
+  [上线了](https://www.sxl.cn) 是 [Strikingly](https://www.strikingly.com/s/careers) 创建的专业易用的建站平台，无需任何编程和设计经验，任何人都可以在 15 分钟内创建一个功能强大网站，并且完美适配电脑、平板和手机等设备浏览的专业网站，今天，我们正在为超过 200 个国家和地区的用户持续创造价值、传递梦想。
+
+* [又拍云](https://www.upyun.com) ([GitHub](https://github.com/upyun)) - 又拍云以场景化 CDN 为核心业务，为客户提供云存储、云处理、云安全、流量营销等服务，帮助用户实现内容分发加速、产品研发加速、业务成长加速。
+
+  目前主要应用 Elixir 于分布式文件存储相关服务，如存储代理，数据处理 ([Cafex](https://github.com/upyun/cafex))
 
 ## Contributing
 
