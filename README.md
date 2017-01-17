@@ -18,6 +18,13 @@
 #### 云计算
 * [又拍云](https://www.upyun.com) ([GitHub](https://github.com/upyun)) - 又拍云以场景化 CDN 为核心业务，为客户提供云存储、云处理、云安全、流量营销等服务，帮助用户实现内容分发加速、产品研发加速、业务成长加速。目前主要应用 Elixir 于分布式文件存储相关服务，如存储代理，数据处理 ([Cafex](https://github.com/upyun/cafex))
 
+#### 游戏公司
+* [EJOY](http://ejoy.com)([Github](https://github.com/ejoy)) - 简悦成立于 2011 年，由网易前 COO 叮当、云风等人创建，以“专注于游戏、致力于为玩家创造快乐”为宗旨，是一家在游戏研发、运营方面具有领先优势的新兴企业。
+
+  简悦平台组在游戏运营支撑业务中大量使用了 Elixir 进行开发，包括帐户模块，计费模块，用户信息收集展示，运营日志记录，游戏活动系统等。并开源了若干个项目
+  * [MongoDB Driver](https://github.com/ejoy/elixir-mongo) 和配套的纯 C 实现的 [BSON 编解码器](https://github.com/sean-lin/elixir-cbson)
+  * [Apk 第三方 SDK 注入器](https://github.com/sean-lin/ApkInjector)
+
 ## Contributing
 
 欢迎通过 PR 添加、更新自己的公司或其他已知的公司。一些要求和建议：
