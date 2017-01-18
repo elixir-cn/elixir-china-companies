@@ -13,13 +13,13 @@
   [上线了](https://www.sxl.cn) 是 [Strikingly](https://www.strikingly.com/s/careers) 创建的专业易用的建站平台，无需任何编程和设计经验，任何人都可以在 15 分钟内创建一个功能强大网站，并且完美适配电脑、平板和手机等设备浏览的专业网站，今天，我们正在为超过 200 个国家和地区的用户持续创造价值、传递梦想。
 
 #### 协作工具
-* [Coding](http://coding.net)([Github](https://github.com/coding)) - Coding.net 是一个面向开发者的云端开发平台,提供 git 代码托管，免费的运行演示空间，代码质量分析，在线 Web IDE，项目管理，开发协作，基于云技术的软件外包，冒泡社交等功能。 为开发者提供技术讨论和开发，协作工具， Coding 极速的代码体验，让开发更简单。Coding 在 [WebIDE](https://ide.coding.net) 产品中使用了 Elixir 作为分布式的 sharding 服务。
+* [Coding](https://coding.net)([Github](https://github.com/coding)) - Coding.net 是一个面向开发者的云端开发平台,提供 git 代码托管，免费的运行演示空间，代码质量分析，在线 Web IDE，项目管理，开发协作，基于云技术的软件外包，冒泡社交等功能。 为开发者提供技术讨论和开发，协作工具， Coding 极速的代码体验，让开发更简单。Coding 在 [WebIDE](https://ide.coding.net) 产品中使用了 Elixir 作为分布式的 sharding 服务。
 
 #### 云计算
 * [又拍云](https://www.upyun.com) ([GitHub](https://github.com/upyun)) - 又拍云以场景化 CDN 为核心业务，为客户提供云存储、云处理、云安全、流量营销等服务，帮助用户实现内容分发加速、产品研发加速、业务成长加速。目前主要应用 Elixir 于分布式文件存储相关服务，如存储代理，数据处理 ([Cafex](https://github.com/upyun/cafex))
 
 #### 游戏公司
-* [EJOY](http://ejoy.com)([Github](https://github.com/ejoy)) - 简悦成立于 2011 年，由网易前 COO 叮当、云风等人创建，以“专注于游戏、致力于为玩家创造快乐”为宗旨，是一家在游戏研发、运营方面具有领先优势的新兴企业。
+* [EJOY](https://ejoy.com)([Github](https://github.com/ejoy)) - 简悦成立于 2011 年，由网易前 COO 叮当、云风等人创建，以“专注于游戏、致力于为玩家创造快乐”为宗旨，是一家在游戏研发、运营方面具有领先优势的新兴企业。
 
   简悦平台组在游戏运营支撑业务中大量使用了 Elixir 进行开发，包括帐户模块，计费模块，用户信息收集展示，运营日志记录，游戏活动系统等。并开源了若干个项目
   * [MongoDB Driver](https://github.com/ejoy/elixir-mongo) 和配套的纯 C 实现的 [BSON 编解码器](https://github.com/sean-lin/elixir-cbson)
