@@ -25,6 +25,11 @@
   * [MongoDB Driver](https://github.com/ejoy/elixir-mongo) 和配套的纯 C 实现的 [BSON 编解码器](https://github.com/sean-lin/elixir-cbson)
   * [Apk 第三方 SDK 注入器](https://github.com/sean-lin/ApkInjector)
 
+### O2O 
+* [住艺](http://www.zhuyihome.com/)([Github](https://github.com/ZhuyiHome)) 住艺，是康泰纳仕集团旗下精选设计师平台，是与国际权威家居生活杂志《安邸AD》关联的互联网消费升级第一品牌。
+ 
+  住艺 Devs 使用 Elixir 及 Phoenix 开发对接装修设计师的 Web 系统，前端使用 [dva](https://github.com/dvajs/dva)，并会积极参与 Elixir 开源项目。我们很在意开发时工程师是否愉悦，因为我们坚信乐趣会带来更多创造性生产力。
+
 ## Contributing
 
 欢迎通过 PR 添加、更新自己的公司或其他已知的公司。一些要求和建议：
