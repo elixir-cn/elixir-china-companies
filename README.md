@@ -12,6 +12,11 @@
 
   [上线了](https://www.sxl.cn) 是 [Strikingly](https://www.strikingly.com/s/careers) 创建的专业易用的建站平台，无需任何编程和设计经验，任何人都可以在 15 分钟内创建一个功能强大网站，并且完美适配电脑、平板和手机等设备浏览的专业网站，今天，我们正在为超过 200 个国家和地区的用户持续创造价值、传递梦想。
 
+#### 数据服务
+* [LocalGravity AG](http://www.linkedin.com/company/localgravity?trk=top_nav_home) - 是一家零售数据选址咨询服务公司，成立于2012年，服务遍布中国、亚洲市场，中国分部有约135位员工。其拥有经验丰富的，结合本土与国际的专家团队，通过采集原始数据、建立零售地理信息平台、提供选址分析咨询服务; 协助连锁企业以科学的方式，更有效地进行全国门店网络选址规划，降低拓展风险、提升各门店效益。
+
+  [LEAP] - 企业级零售数据分析平台。采用Elixir, Phoenix, Postgres, Docker实现API server。
+
 #### 协作工具
 * [Coding](https://coding.net)([Github](https://github.com/coding)) - Coding.net 是一个面向开发者的云端开发平台,提供 git 代码托管，免费的运行演示空间，代码质量分析，在线 Web IDE，项目管理，开发协作，基于云技术的软件外包，冒泡社交等功能。 为开发者提供技术讨论和开发，协作工具， Coding 极速的代码体验，让开发更简单。Coding 在 [WebIDE](https://ide.coding.net) 产品中使用了 Elixir 作为分布式的 sharding 服务。
 
