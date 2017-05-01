@@ -8,9 +8,13 @@
 * [Ela Workshop](http://ela.build/) ([Github](https://github.com/ElaWorkshop)) - 生产环境中部署了 [HaloSir](https://github.com/HaloWordApp/halosir) 其他还有一些 [工具](https://github.com/ElaWorkshop/ex_loglite) 和实验性的项目。
 
 #### SaaS
-* [Strikingly](https://www.strikingly.com) ([Github](https://github.com/Strikingly)) - 用于高并发的 Analytics 数据查询服务。其中使用 Pheonix 和 GraphQL 做 API server，Rust 的 Native Extention 提高查询速度。
+* [Strikingly](https://www.strikingly.com) ([Github](https://github.com/Strikingly)) - 用于高并发的 Analytics 数据查询服务。其中使用 Phoenix 和 GraphQL 做 API server，Rust 的 Native Extention 提高查询速度。  
 
-  [上线了](https://www.sxl.cn) 是 [Strikingly](https://www.strikingly.com/s/careers) 创建的专业易用的建站平台，无需任何编程和设计经验，任何人都可以在 15 分钟内创建一个功能强大网站，并且完美适配电脑、平板和手机等设备浏览的专业网站，今天，我们正在为超过 200 个国家和地区的用户持续创造价值、传递梦想。
+  [上线了](https://www.sxl.cn) 是 [Strikingly](https://www.strikingly.com/s/careers) 创建的专业易用的建站平台，无需任何编程和设计经验，任何人都可以在 15 分钟内创建一个功能强大网站，并且完美适配电脑、平板和手机等设备浏览的专业网站，今天，我们正在为超过 200 个国家和地区的用户持续创造价值、传递梦想。
+
+* [巧思](https://cform.io)（[Github](https://github.com/choice-form)）- 以在线问卷作为应用服务，以回收问卷作为商业智能数据分析基础的互联网公司。全部产品线的前端以 Ember 为中心，后端以 Elixir 为中心，使用 Phoenix + JSONAPI 实现 Web API Service，同时积极探索 Erlang VM 在并发编程领域的实际应用
+
+  [choice form](https://cform.io) 是巧思提供的在线问卷设计与回收系统，为用户提供堪比专业级的问卷设计器并提供广泛的问卷发布渠道来帮助用户跟踪和管理问卷的回收情况。
 
 #### 数据服务
 * [LocalGravity AG](http://www.localgravity.com) - 是一家零售数据选址咨询服务公司，成立于 2012 年，服务遍布中国、亚洲市场，中国分部有约 135 位员工。其拥有经验丰富的，结合本土与国际的专家团队，通过采集原始数据、建立零售地理信息平台、提供选址分析咨询服务; 协助连锁企业以科学的方式，更有效地进行全国门店网络选址规划，降低拓展风险、提升各门店效益。LEAP - 企业级零售数据分析平台。采用 Elixir、Phoenix、Postgres、Docker 实现 API server。
