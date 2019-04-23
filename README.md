@@ -41,6 +41,10 @@
 
   住艺 Devs 使用 Elixir 及 Phoenix 开发对接装修设计师的 Web 系统，前端使用 [dva](https://github.com/dvajs/dva)，并会积极参与 Elixir 开源项目。我们很在意开发时工程师是否愉悦，因为我们坚信乐趣会带来更多创造性生产力。
 
+* [托特衣箱](https://www.letote.cn/) LeTote 时装界的Netflix，美国创先的时尚共享平台，2012年在美国旧金山创立，2018年进入中国。拥有在国际时尚领域的顶尖设计师和买手，依托强大的技术平台和成熟的运营经验，让每一位女性轻松换穿既称心又合身的服饰，从此时尚变得触手可及。LeTote是Elixir社区从早期到现在忠实的拥护者, 其代表人物Lance Halvorsen, Justin Schneck。
+
+  Elixir/Phoenix/Nerves 被全方位地应用在公司平台各个领域。
+
 ## Contributing
 
 欢迎通过 PR 添加、更新自己的公司或其他已知的公司。一些要求和建议：
