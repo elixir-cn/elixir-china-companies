@@ -9,7 +9,7 @@
 * [Sumi Interactive](http://sumi.io) ([Github](https://github.com/Sumi-Interactive)) - 用于 「[格子笔记](https://note.sumi.io)」后端, 使用 Phoenix 和 Absinthe 实现 API Service。
 
 #### SaaS
-* [Strikingly](https://www.strikingly.com) ([Github](https://github.com/Strikingly)) - 用于高并发的 Analytics 数据查询服务。其中使用 Phoenix 和 GraphQL 做 API server，Rust 的 Native Extention 提高查询速度。  
+* [Strikingly](https://www.strikingly.com) ([Github](https://github.com/Strikingly)) - 用于高并发的 Analytics 数据查询服务。其中使用 Phoenix 和 GraphQL 做 API server，Rust 的 Native Extention 提高查询速度。
 
   [上线了](https://www.sxl.cn) 是 [Strikingly](https://www.strikingly.com/s/careers) 创建的专业易用的建站平台，无需任何编程和设计经验，任何人都可以在 15 分钟内创建一个功能强大网站，并且完美适配电脑、平板和手机等设备浏览的专业网站，今天，我们正在为超过 200 个国家和地区的用户持续创造价值、传递梦想。
 
@@ -37,6 +37,11 @@
   * [Apk 第三方 SDK 注入器](https://github.com/sean-lin/ApkInjector)
 
 ### O2O
+
+* [河狸家](https://m.helijia.com)是一家线上线下全美业服务品牌。致力于解放天下手艺人，帮助他们打造值得一生守护的“自品牌”。Uber 解决了“车的共享”，Airbnb 解决了“房的共享”，而河狸家的梦想，是解决“人的共享”——让所有具备专业技能的人士，都可以被其他人共享，让“服务”这件事不再被禁锢在“店”里，而是随时随地“动”起来！
+
+  Elixir/Phoenix 广泛应用在公司产品中，提供部分业务和工具支撑。
+
 * [住艺](http://www.zhuyihome.com/)([Github](https://github.com/ZhuyiHome)) 住艺，是康泰纳仕集团旗下精选设计师平台，是与国际权威家居生活杂志《安邸AD》关联的互联网消费升级第一品牌。
 
   住艺 Devs 使用 Elixir 及 Phoenix 开发对接装修设计师的 Web 系统，前端使用 [dva](https://github.com/dvajs/dva)，并会积极参与 Elixir 开源项目。我们很在意开发时工程师是否愉悦，因为我们坚信乐趣会带来更多创造性生产力。
