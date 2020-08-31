@@ -12,7 +12,7 @@
 * [Sumi Interactive](http://sumi.io) ([Github](https://github.com/Sumi-Interactive)) - 用于 「[格子笔记](https://note.sumi.io)」后端, 使用 Phoenix 和 Absinthe 实现 API Service。
 
 #### 企业服务
-* [eDragonConnect](http://www.edragontech.cn/) ([Github](https://github.com/edragonconnect)): 我们的团队对酒店、餐饮、休闲、电商、会展等各领域均有深入实践并有客户服务经验。对于传统行业与移动互联网的结合方面，已经能实现很多高价值的方案。除了最基础的推广销售业务，更加多功能性及人性化的方法已经在市场上实施。从14年起大量应用 Elixir/Erlang/Phoenix/Cowboy 在酒店、餐饮、票务、船务、邮轮、旅游等电子商务服务上。
+* [eDragonConnect](http://www.edragontech.cn/) ([Github](https://github.com/edragonconnect)): 我们擅长提供完整的IT技术解决方案，包括但不限于产品设计、交互，第三方开放平台整合，客户传统业务方案优化改进、执行等方面，我们大概从14年起使用 Elixir/Erlang 作为主力开发工具服务于我们的客户，目前已交付于生产环境的业务场景包括：酒店预订、零售、票务、船务、邮轮旅行、移动应用等电子商务服务。
 
 #### SaaS
 * [Strikingly](https://www.strikingly.com) ([Github](https://github.com/Strikingly)) - 用于高并发的 Analytics 数据查询服务。其中使用 Phoenix 和 GraphQL 做 API server，Rust 的 Native Extention 提高查询速度。
