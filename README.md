@@ -11,6 +11,10 @@
 * [Ela Workshop](http://ela.build/) ([Github](https://github.com/ElaWorkshop)) - 生产环境中部署了 [HaloSir](https://github.com/HaloWordApp/halosir) 其他还有一些 [工具](https://github.com/ElaWorkshop/ex_loglite) 和实验性的项目。
 * [Sumi Interactive](http://sumi.io) ([Github](https://github.com/Sumi-Interactive)) - 用于 「[格子笔记](https://note.sumi.io)」后端, 使用 Phoenix 和 Absinthe 实现 API Service。
 
+#### 企业服务
+* [eDragonConnect](https://github.com/edragonconnect): 我们的团队对酒店、餐饮、休闲、电商、会展等各领域均有深入实践并有客户服务经验。对于传统行业与移动互联网的结合方面，已经能实现很多高价值的方案。除了最基础的推广销售业务，更加多功能性及人性化的方法已经在市场上实施。从14年起大量应用 Elixir/Erlang/Phoenix/Cowboy 在酒店、餐饮、票务、船务、邮轮、旅游等电子商务服务上。[官网
+](http://www.edragontech.cn/)
+
 #### SaaS
 * [Strikingly](https://www.strikingly.com) ([Github](https://github.com/Strikingly)) - 用于高并发的 Analytics 数据查询服务。其中使用 Phoenix 和 GraphQL 做 API server，Rust 的 Native Extention 提高查询速度。
 
