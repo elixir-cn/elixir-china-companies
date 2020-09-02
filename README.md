@@ -11,6 +11,9 @@
 * [Ela Workshop](http://ela.build/) ([Github](https://github.com/ElaWorkshop)) - 生产环境中部署了 [HaloSir](https://github.com/HaloWordApp/halosir) 其他还有一些 [工具](https://github.com/ElaWorkshop/ex_loglite) 和实验性的项目。
 * [Sumi Interactive](http://sumi.io) ([Github](https://github.com/Sumi-Interactive)) - 用于 「[格子笔记](https://note.sumi.io)」后端, 使用 Phoenix 和 Absinthe 实现 API Service。
 
+#### 流媒体服务
+* [Tubi](https://tubitv.com/home) ([Github](https://github.com/Tubitv)) - TubiTV 是美国福克斯娱乐集团下独立运营的流媒体服务公司，总部位于美国西海岸的旧金山，目前在纽约、芝加哥、洛杉矶、北京等设置 Office。目前拥有 300 多名员工，其中 80 多名工程师，并且团队在持续壮大中。 我们的 elixir 主要用在后端服务：content video delivery, ad video delivery, video encodiing, video quality. 
+
 #### 企业服务
 * [eDragonConnect](https://www.edragontech.cn/) ([Github](https://github.com/edragonconnect)): 我们擅长提供完整的 IT 技术解决方案，包括但不限于产品设计、交互，第三方开放平台整合，客户传统业务方案优化改进、执行等方面，我们大概从 2014 年起使用 Elixir/Erlang 作为主力开发工具服务于我们的客户，目前已交付于生产环境的业务场景包括：酒店预订、零售、票务、船务、邮轮旅行、移动应用等电子商务服务。
 
@@ -24,7 +27,7 @@
   [choice form](https://cform.io) 是巧思提供的在线问卷设计与回收系统，为用户提供堪比专业级的问卷设计器并提供广泛的问卷发布渠道来帮助用户跟踪和管理问卷的回收情况。
 
 #### 区块链金融
-* [畅思交易所](https://chaince.com)([Github](https://github.com/chaince)) - 是专注 EOS 生态的区块链资产精品交易平台，母公司注册于开曼，运营平台位于香港，服务对象为全球区块链资产交易用户。团队成员来⾃中银⾹港、戴德梁行、普华永道等顶级金融及商业机构，以及业内知名区块链资本集团与⼤型交易平台。EOS 是支持商业级去中心化应用的大型区块链基础设施，畅思专注于 EOS 生态项目，以公开透明的甄选标准努力减少项目方投资方以及交易双方的信息不对称性。畅思是基于 erlang/OTP 平台的纯粹的 elixir/phoenix 实现，充分利用其优秀的并行特性，高并发、高可用和强大的故障转移及状态恢复机制，为用户提供流畅易用的区块链资产交易服务。
+* [畅思交易所](https://chaince.com)([Github](https://github.com/chaince)) - 是专注 EOS 生态的区块链资产精品交易平台，母公司注册于开曼，运营平台位于香港，服务对象为全球区块链资产交易用户。团队成员来⾃中银⾹港、戴德梁行、普华永道等顶级金融及商业机构，以及业内知名区块链资本集团与⼤型交易平台。EOS 是支持商业级去中心化应用的大型区块链基础设施，畅思专注于 EOS 生态项目，以公开透明的甄选标准努力减少项目方投资方以及交易双方的信息不对称性。畅思是基于 erlang/OTP 平台的纯粹的 elixir/phoenix 实现，充分利用其优秀的并行特性，高并发、高可用和强大的故障转移及状态恢复机制，为用户提供流畅易用的区块链资产交易服务。
 
 #### 数据服务
 * [LocalGravity AG](http://www.localgravity.com) - 是一家零售数据选址咨询服务公司，成立于 2012 年，服务遍布中国、亚洲市场，中国分部有约 135 位员工。其拥有经验丰富的，结合本土与国际的专家团队，通过采集原始数据、建立零售地理信息平台、提供选址分析咨询服务; 协助连锁企业以科学的方式，更有效地进行全国门店网络选址规划，降低拓展风险、提升各门店效益。LEAP - 企业级零售数据分析平台。采用 Elixir、Phoenix、Postgres、Docker 实现 API server。
