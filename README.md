@@ -11,8 +11,11 @@
 * [Ela Workshop](http://ela.build/) ([Github](https://github.com/ElaWorkshop)) - 生产环境中部署了 [HaloSir](https://github.com/HaloWordApp/halosir) 其他还有一些 [工具](https://github.com/ElaWorkshop/ex_loglite) 和实验性的项目。
 * [Sumi Interactive](http://sumi.io) ([Github](https://github.com/Sumi-Interactive)) - 用于 「[格子笔记](https://note.sumi.io)」后端, 使用 Phoenix 和 Absinthe 实现 API Service。
 
+#### IoT
+* Lenovo IoT department 
+
 #### 流媒体服务
-* [Tubi](https://tubitv.com/home) ([Github](https://github.com/Tubitv)) - TubiTV 是美国福克斯娱乐集团下独立运营的流媒体服务公司，总部位于美国西海岸的旧金山，目前在纽约、芝加哥、洛杉矶、北京等设置 Office。目前拥有 300 多名员工，其中 80 多名工程师，并且团队在持续壮大中。 我们的 elixir 主要用在后端服务：content video delivery, ad video delivery, video encodiing, video quality. 
+* [Tubi](https://tubitv.com/home) ([Github](https://github.com/Tubitv)) - TubiTV 是美国福克斯娱乐集团下独立运营的流媒体服务公司，总部位于美国西海岸的旧金山，目前在纽约、芝加哥、洛杉矶、北京等设置 Office。目前拥有 300 多名员工，其中 80 多名工程师，并且团队在持续壮大中。 在免费视频领域，我们是北美最大的玩家，并建立了相当稳固的商业地位。 区别于像 Netflix、 Hulu 等付费的流媒体服务，我们为用户提供免费的高质量视频内容，通过广告获取收益，实现用户、内容提供商和广告主共赢。我们的 elixir 主要用在后端服务：content video delivery, ad video delivery, video encodiing, video quality. 
 
 #### 企业服务
 * [eDragonConnect](https://www.edragontech.cn/) ([Github](https://github.com/edragonconnect)): 我们擅长提供完整的 IT 技术解决方案，包括但不限于产品设计、交互，第三方开放平台整合，客户传统业务方案优化改进、执行等方面，我们大概从 2014 年起使用 Elixir/Erlang 作为主力开发工具服务于我们的客户，目前已交付于生产环境的业务场景包括：酒店预订、零售、票务、船务、邮轮旅行、移动应用等电子商务服务。
@@ -28,6 +31,8 @@
 
 #### 区块链金融
 * [畅思交易所](https://chaince.com)([Github](https://github.com/chaince)) - 是专注 EOS 生态的区块链资产精品交易平台，母公司注册于开曼，运营平台位于香港，服务对象为全球区块链资产交易用户。团队成员来⾃中银⾹港、戴德梁行、普华永道等顶级金融及商业机构，以及业内知名区块链资本集团与⼤型交易平台。EOS 是支持商业级去中心化应用的大型区块链基础设施，畅思专注于 EOS 生态项目，以公开透明的甄选标准努力减少项目方投资方以及交易双方的信息不对称性。畅思是基于 erlang/OTP 平台的纯粹的 elixir/phoenix 实现，充分利用其优秀的并行特性，高并发、高可用和强大的故障转移及状态恢复机制，为用户提供流畅易用的区块链资产交易服务。
+
+* [PXN (Peatio eXchange Network)](https://pxn.one) - PXN 创新并引领"云端交易引擎部署"模式，为全球客户提供数字资产交易引擎技术服务、数字资产保管和全方位的咨询和培训服务，深度连接和赋能交易平台，并引领数字资产交易的未来。PXN的使命是“让数字资产交易安全而简单”，推动数字资产在全球范围的自由流动。
 
 #### 数据服务
 * [LocalGravity AG](http://www.localgravity.com) - 是一家零售数据选址咨询服务公司，成立于 2012 年，服务遍布中国、亚洲市场，中国分部有约 135 位员工。其拥有经验丰富的，结合本土与国际的专家团队，通过采集原始数据、建立零售地理信息平台、提供选址分析咨询服务; 协助连锁企业以科学的方式，更有效地进行全国门店网络选址规划，降低拓展风险、提升各门店效益。LEAP - 企业级零售数据分析平台。采用 Elixir、Phoenix、Postgres、Docker 实现 API server。
@@ -52,6 +57,8 @@
 * [河狸家](https://m.helijia.com)是一家线上线下全美业服务品牌。致力于解放天下手艺人，帮助他们打造值得一生守护的“自品牌”。Uber 解决了“车的共享”，Airbnb 解决了“房的共享”，而河狸家的梦想，是解决“人的共享”——让所有具备专业技能的人士，都可以被其他人共享，让“服务”这件事不再被禁锢在“店”里，而是随时随地“动”起来！
 
   Elixir/Phoenix 广泛应用在公司产品中，提供部分业务和工具支撑。
+  
+* [美团](https://meituan.com) - IM team，处理话务数据。
 
 * [住艺](http://www.zhuyihome.com/)([Github](https://github.com/ZhuyiHome)) 住艺，是康泰纳仕集团旗下精选设计师平台，是与国际权威家居生活杂志《安邸AD》关联的互联网消费升级第一品牌。
 
