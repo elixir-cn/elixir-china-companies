@@ -51,6 +51,8 @@
   简悦平台组在游戏运营支撑业务中大量使用了 Elixir 进行开发，包括帐户模块，计费模块，用户信息收集展示，运营日志记录，游戏活动系统等。并开源了若干个项目
   * [MongoDB Driver](https://github.com/ejoy/elixir-mongo) 和配套的纯 C 实现的 [BSON 编解码器](https://github.com/sean-lin/elixir-cbson)
   * [Apk 第三方 SDK 注入器](https://github.com/sean-lin/ApkInjector)
+  
+* [莉莉丝游戏](https://www.lilithgames.com/cn) - 上海莉莉丝网络科技有限公司成立于2013年5月，是一家研运一体、专注于手机游戏的手游公司，旗下拥有多款自研游戏及代理游戏。目前主要使用 Elixir 于社区中台和 IM 平台的开发。  
 
 ### O2O
 
