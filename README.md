@@ -10,6 +10,7 @@
 #### 独立工作室
 * [Ela Workshop](http://ela.build/) ([Github](https://github.com/ElaWorkshop)) - 生产环境中部署了 [HaloSir](https://github.com/HaloWordApp/halosir) 其他还有一些 [工具](https://github.com/ElaWorkshop/ex_loglite) 和实验性的项目。
 * [Sumi Interactive](http://sumi.io) ([Github](https://github.com/Sumi-Interactive)) - 用于 「[格子笔记](https://note.sumi.io)」后端, 使用 Phoenix 和 Absinthe 实现 API Service。
+* [尽简工作室](https://www.so-simple.tech) - 专注于简化生活的独立工作室。主要使用 Phoenix 建设网站、开发「[尽简衣橱](https://closet.jinjian.tech/)」等移动应用的后端服务。
 
 #### IoT
 * Lenovo IoT department
