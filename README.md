@@ -10,12 +10,13 @@
 #### 独立工作室
 * [Ela Workshop](http://ela.build/) ([Github](https://github.com/ElaWorkshop)) - 生产环境中部署了 [HaloSir](https://github.com/HaloWordApp/halosir) 其他还有一些 [工具](https://github.com/ElaWorkshop/ex_loglite) 和实验性的项目。
 * [Sumi Interactive](http://sumi.io) ([Github](https://github.com/Sumi-Interactive)) - 用于 「[格子笔记](https://note.sumi.io)」后端, 使用 Phoenix 和 Absinthe 实现 API Service。
+* [尽简工作室](https://www.so-simple.tech) - 专注于简化生活的独立工作室。主要使用 Phoenix 建设网站、开发「[尽简衣橱](https://closet.jinjian.tech/)」等移动应用的后端服务。
 
 #### IoT
-* Lenovo IoT department 
+* Lenovo IoT department
 
 #### 流媒体服务
-* [Tubi](https://tubitv.com/home) ([Github](https://github.com/Tubitv)) - TubiTV 是美国福克斯娱乐集团下独立运营的流媒体服务公司，总部位于美国西海岸的旧金山，目前在纽约、芝加哥、洛杉矶、北京等设置 Office。目前拥有 300 多名员工，其中 80 多名工程师，并且团队在持续壮大中。 在免费视频领域，我们是北美最大的玩家，并建立了相当稳固的商业地位。 区别于像 Netflix、 Hulu 等付费的流媒体服务，我们为用户提供免费的高质量视频内容，通过广告获取收益，实现用户、内容提供商和广告主共赢。我们的 elixir 主要用在后端服务：content video delivery, ad video delivery, video encodiing, video quality. 
+* [Tubi](https://tubitv.com/home) ([Github](https://github.com/Tubitv)) - TubiTV 是美国福克斯娱乐集团下独立运营的流媒体服务公司，总部位于美国西海岸的旧金山，目前在纽约、芝加哥、洛杉矶、北京等设置 Office。目前拥有 300 多名员工，其中 80 多名工程师，并且团队在持续壮大中。 在免费视频领域，我们是北美最大的玩家，并建立了相当稳固的商业地位。 区别于像 Netflix、 Hulu 等付费的流媒体服务，我们为用户提供免费的高质量视频内容，通过广告获取收益，实现用户、内容提供商和广告主共赢。我们的 elixir 主要用在后端服务：content video delivery, ad video delivery, video encodiing, video quality.
 
 #### 企业服务
 * [eDragonConnect](https://www.edragontech.cn/) ([Github](https://github.com/edragonconnect)): 我们擅长提供完整的 IT 技术解决方案，包括但不限于产品设计、交互，第三方开放平台整合，客户传统业务方案优化改进、执行等方面，我们大概从 2014 年起使用 Elixir/Erlang 作为主力开发工具服务于我们的客户，目前已交付于生产环境的业务场景包括：酒店预订、零售、票务、船务、邮轮旅行、移动应用等电子商务服务。
@@ -51,15 +52,15 @@
   简悦平台组在游戏运营支撑业务中大量使用了 Elixir 进行开发，包括帐户模块，计费模块，用户信息收集展示，运营日志记录，游戏活动系统等。并开源了若干个项目
   * [MongoDB Driver](https://github.com/ejoy/elixir-mongo) 和配套的纯 C 实现的 [BSON 编解码器](https://github.com/sean-lin/elixir-cbson)
   * [Apk 第三方 SDK 注入器](https://github.com/sean-lin/ApkInjector)
-  
-* [莉莉丝游戏](https://www.lilithgames.com/cn) - 上海莉莉丝网络科技有限公司成立于2013年5月，是一家研运一体、专注于手机游戏的手游公司，旗下拥有多款自研游戏及代理游戏。目前主要使用 Elixir 于社区中台和 IM 平台的开发。  
+
+* [莉莉丝游戏](https://www.lilithgames.com/cn) - 上海莉莉丝网络科技有限公司成立于2013年5月，是一家研运一体、专注于手机游戏的手游公司，旗下拥有多款自研游戏及代理游戏。目前主要使用 Elixir 于社区中台和 IM 平台的开发。
 
 ### O2O
 
 * [河狸家](https://m.helijia.com)是一家线上线下全美业服务品牌。致力于解放天下手艺人，帮助他们打造值得一生守护的“自品牌”。Uber 解决了“车的共享”，Airbnb 解决了“房的共享”，而河狸家的梦想，是解决“人的共享”——让所有具备专业技能的人士，都可以被其他人共享，让“服务”这件事不再被禁锢在“店”里，而是随时随地“动”起来！
 
   Elixir/Phoenix 广泛应用在公司产品中，提供部分业务和工具支撑。
-  
+
 * [美团](https://meituan.com) - IM team，处理话务数据。
 
 * [住艺](http://www.zhuyihome.com/)([Github](https://github.com/ZhuyiHome)) 住艺，是康泰纳仕集团旗下精选设计师平台，是与国际权威家居生活杂志《安邸AD》关联的互联网消费升级第一品牌。
