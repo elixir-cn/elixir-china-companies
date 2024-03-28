@@ -71,6 +71,12 @@
 
   Elixir/Phoenix/Nerves 被全方位地应用在公司平台各个领域。
 
+### 社交
+
+* [Pome](https://pome.vip/)([App Store](https://apps.apple.com/cn/app/pome-%E6%AF%94tape%E6%9B%B4%E7%AE%80%E6%B4%81%E5%B9%B2%E5%87%80%E7%9A%84%E5%8C%BF%E5%90%8D%E6%8F%90%E9%97%AE%E7%AE%B1/id1502531713)) 是一款兴趣社交社区产品。
+
+  Elixir/Phoenix 广泛应用在公司产品中，提供核心业务和工具支撑。
+
 ## Contributing
 
 欢迎通过 PR 添加、更新自己的公司或其他已知的公司。一些要求和建议：
